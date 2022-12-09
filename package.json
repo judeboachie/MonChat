@@ -1,5 +1,5 @@
 {
-  "name": "chatcord",
+  "name": "monchat",
   "version": "1.0.0",
   "description": "Realtime chat application with rooms",
   "main": "server.js",
